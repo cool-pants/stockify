@@ -1,0 +1,23 @@
+# Fdb version 3
+["pdflatex"] 1658071263 "d:/Projects/Studies/Cognitive/DA1/da1.tex" "da1.pdf" "da1" 1658071263
+  "d:/Projects/Studies/Cognitive/DA1/da1.tex" 1658071257 264 e45df49980cde80d002374d26b829803 ""
+  "d:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1652265338 71627 94eb9990bed73c364d7f53f960cc8c5b ""
+  "d:/texlive/2022/texmf-dist/tex/latex/base/article.cls" 1652263156 20144 8a7de377ae7a11ee924a7499611f5a9d ""
+  "d:/texlive/2022/texmf-dist/tex/latex/base/size10.clo" 1652263157 8448 96f18c76bf608a36ee6fbf021ac1dd32 ""
+  "d:/texlive/2022/texmf-dist/tex/latex/colortbl/colortbl.sty" 1652257436 10793 d0af3aa11e27ae35ba4685b17597b122 ""
+  "d:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1652261248 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
+  "d:/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def" 1652261250 19103 48d29b6e2a64cb717117ef65f107b404 ""
+  "d:/texlive/2022/texmf-dist/tex/latex/graphics/color.sty" 1652261242 7197 eb6c1ebf41667a05cb50c23c19d5e8bc ""
+  "d:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1652263047 31067 89623bb5c412243bea4c601866f5e8c1 ""
+  "d:/texlive/2022/texmf-dist/tex/latex/tools/array.sty" 1652270701 12694 6c23725d50ab9d1e2d3ce482c58ffcf3 ""
+  "d:/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty" 1652284364 56029 3f7889dab51d620aa43177c391b7b190 ""
+  "d:/texlive/2022/texmf-dist/web2c/texmf.cnf" 1652253673 40171 cdab547de63d26590bebb3baff566530 ""
+  "d:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1652285285 4594186 db24002f71193e570647b9a576de65f7 ""
+  "d:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1652285665 2828200 268d70fa989d5383b9f01ae81a4354dc ""
+  "d:/texlive/2022/texmf.cnf" 1652282437 713 614551405fc44b98efbf516466e3c909 ""
+  "da1.aux" 1658071161 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "da1.tex" 1658071257 264 e45df49980cde80d002374d26b829803 ""
+  (generated)
+  "da1.aux"
+  "da1.log"
+  "da1.pdf"
